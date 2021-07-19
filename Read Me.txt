@@ -1,0 +1,8 @@
+Read Me........
+(Using only Html & CSS)
+
+These website is an IOT website named as secu-mirror(Security in Smart mirror).
+
+In these website there are many contents that i have used as ('Lorem' i.e a random words framed as a sentences).
+ 
+In these project is basically a normal website using Html & CSS.
